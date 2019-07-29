@@ -1,0 +1,44 @@
+.srchbtn
+{
+    margin-top:15px;
+    margin-left:10px;
+}
+
+img {
+    border-radius: 50%;
+  }
+.imagebox
+{
+    margin-top:40px;
+    border:solid 1px black;
+    padding:30px;
+}
+.search
+{
+    width: 300px;
+    margin-left:20px;
+}
+.header
+{
+    text-align: center;
+    background-color:#0080FF;
+    margin-top:0px;
+    height:60px;
+    color:white;
+
+}
+
+.inline-block-child {
+    display: inline-block;
+  }
+  .tweet
+  {
+    border-radius:5px;
+  }
+
+  .drag{
+
+    font-size:20px;
+    margin-top:40px;
+  
+  }
